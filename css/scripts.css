@@ -62,3 +62,13 @@ html{
     color: white;
     font-size: medium;
 }
+.what-we-do{
+    text-align: center;
+    padding-top: 3%;
+}
+.what-we-do h2{
+    margin-bottom: 3%;
+}
+.heading1{
+    font-weight: bold;
+}
