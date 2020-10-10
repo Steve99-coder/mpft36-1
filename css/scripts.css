@@ -69,6 +69,7 @@ html{
 }
 .what-we-do h2{
     margin-bottom: 3%;
+    text-align: center;
 }
 .heading1{
     font-weight: bold;
@@ -137,15 +138,16 @@ footer{
 footer p{
     margin-top: 10px;
 }
-#product .heading1, #development .heading1, #design .heading1{
-    font-size: 20px;
-    font-weight: 600;
-}
 #product, #development, #design{
     display: none;
     font-family: 'Copse', serif;
     font-size: 16px;
 }
+#product .heading1, #development .heading1, #design .heading1{
+    font-size: 20px;
+    font-weight: 600;
+}
+
 #hover1,#hover2,#hover3,#hover4,#hover5,#hover6,#hover7,#hover8{
     display: none;
     color: black;

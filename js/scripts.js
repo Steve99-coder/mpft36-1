@@ -1,7 +1,7 @@
 $(document).ready(function () {
     $("#design-image").click(function () {
-        $("#design-image").slideDown('2000').hide('1500');
-        $("#design").show('2000');
+        $("#design-image").slideDown('1500').hide('1000');
+        $("#design").show('1500');
     });
     $("#design").click(function () {
         $("#design").slideUp('2000');
@@ -23,6 +23,8 @@ $(document).ready(function () {
         $("#product").slideUp('2000');
         $("#product-image").slideDown('2000');
     });
+});
+$(document).ready(function () {
 
     $("#work1").mouseover(function () {
         $("#hover1").show();
@@ -71,8 +73,9 @@ $(document).ready(function () {
     }).mouseout(function () {
         $("#hover8").hide();
     });
+});
 
-
+$(document).ready(function () {
     $("form#form1").submit(function () {
         var name = $("input#NAME1").val();
         var email = $("input#EMAIL1").val();
