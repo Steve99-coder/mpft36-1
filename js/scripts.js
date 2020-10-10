@@ -55,21 +55,21 @@ $(document).ready(function () {
     });
 
     $("#work6").mouseover(function () {
-        $("#overlay6").show();
+        $("#hover6").show();
     }).mouseout(function () {
-        $("#overlay6").hide();
+        $("#hover6").hide();
     });
 
     $("#work7").mouseover(function () {
-        $("#overlay7").show();
+        $("#hover7").show();
     }).mouseout(function () {
-        $("#overlay7").hide();
+        $("#hover7").hide();
     });
 
     $("#work8").mouseover(function () {
-        $("#overlay8").show();
+        $("#hover8").show();
     }).mouseout(function () {
-        $("#overlay8").hide();
+        $("#hover8").hide();
     });
 
 
