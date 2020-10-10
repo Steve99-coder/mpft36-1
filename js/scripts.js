@@ -15,4 +15,8 @@ $(document).ready(function () {
         $("#development").slideUp('2000');
         $("#development-image").slideDown('2000');
     });
+    $("#product-image").click(function () {
+        $("#product-image").slideDown('2000').hide('1500');
+        $("#product").show('2000');
+    });
 });
