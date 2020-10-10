@@ -15,3 +15,7 @@ html{
     padding: 2px;
     margin: 5px;
 }
+
+.services{
+    background-image: url("../img/backgrounds/s_image.jpg");
+}
