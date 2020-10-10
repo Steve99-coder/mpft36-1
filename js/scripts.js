@@ -11,4 +11,8 @@ $(document).ready(function () {
         $("#development-image").slideDown('2000').hide('1500');
         $("#development").show('2000');
     });
+    $("#development").click(function () {
+        $("#development").slideUp('2000');
+        $("#development-image").slideDown('2000');
+    });
 });
