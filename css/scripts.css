@@ -43,6 +43,22 @@ html{
       transform: translateY(-45px);
     }
   }
+.about{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+#about{
+    font-family: sans-serif;
+}
 .services{
     background-image: url("../img/backgrounds/s_image.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+    font-size: medium;
 }
