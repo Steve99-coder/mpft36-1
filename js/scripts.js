@@ -23,4 +23,10 @@ $(document).ready(function () {
         $("#product").slideUp('2000');
         $("#product-image").slideDown('2000');
     });
+
+    $("#work1").mouseover(function () {
+        $("#hover1").show();
+    }).mouseout(function () {
+        $("#hover").hide();
+    });
 });
