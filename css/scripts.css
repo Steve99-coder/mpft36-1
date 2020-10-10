@@ -1,3 +1,4 @@
+import u
 html{
     scroll-behavior: smooth;
 }
@@ -131,8 +132,32 @@ button{
 footer{
     text-align: center;
     padding-top: 30px;
-    /* font-family: 'Delius Swash Caps', cursive; */
+    font-family: 'Delius Swash Caps', cursive;
 }
 footer p{
     margin-top: 10px;
+}
+#product .heading1, #development .heading1, #design .heading1{
+    font-size: 20px;
+    font-weight: 600;
+}
+#product, #development, #design{
+    display: none;
+    font-family: 'Copse', serif;
+    font-size: 16px;
+}
+#hover1,#hover2,#hover3,#hover,#hover5,#hover6,#hover7,#hover8{
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(255, 255, 225, 0.453);
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 25%;
+    font-family: 'Delius Swash Caps', cursive;
 }
