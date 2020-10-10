@@ -65,10 +65,25 @@ $(document).ready(function () {
     }).mouseout(function () {
         $("#overlay7").hide();
     });
-    
+
     $("#work8").mouseover(function () {
         $("#overlay8").show();
     }).mouseout(function () {
         $("#overlay8").hide();
     });
+
+
+    $("form#form1").submit(function () {
+        var name = $("input#NAME1").val();
+        var email = $("input#EMAIL1").val();
+        var message = $("textarea#comment").val();
+        if ($("input#NAME1").val() && $("input#EMAIL1").val()) {
+            alert(name + "  thank you for reaching out to us,we have received your message.");
+        }
+        else {
+            alert("Please enter your name and email!");
+        }
+
+    });
 });
+
