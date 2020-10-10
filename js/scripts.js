@@ -27,7 +27,7 @@ $(document).ready(function () {
     $("#work1").mouseover(function () {
         $("#hover1").show();
     }).mouseout(function () {
-        $("#hover").hide();
+        $("#hover1").hide();
     });
 
     $("#work2").mouseover(function () {
