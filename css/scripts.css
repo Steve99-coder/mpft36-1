@@ -15,6 +15,20 @@ html{
     padding: 2px;
     margin: 5px;
 }
+.intro p{
+    padding: 2px;
+}
+#logo{
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 70px;
+    height: 70px;;
+  }
+.mouse-click{
+    padding-top : 25px;
+    margin-top: 12%;
+    padding-bottom: 30px; 
+}
 
 .services{
     background-image: url("../img/backgrounds/s_image.jpg");
