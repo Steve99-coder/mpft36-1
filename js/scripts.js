@@ -7,4 +7,8 @@ $(document).ready(function () {
         $("#design").slideUp('2000');
         $("#design-image").slideDown('2000');
     });
+    $("#development-image").click(function () {
+        $("#development-image").slideDown('2000').hide('1500');
+        $("#development").show('2000');
+    });
 });
