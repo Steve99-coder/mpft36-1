@@ -3,7 +3,7 @@
 ## Description
 This is a landing page for delani studio.Which deals with various activities and they include development,design and product management.We also offer you services best to our capability and you can reach us by filling the form in the contact us section.
 #### project image
-![Steve99-coder](../img/delani.jpg)
+![Steve99-coder](./img/delani.jpg)
 ## Setup/Installation Requirements
 * Open up the live link (https://steve99-coder.github.io/mpft36-1/)
 * Copy and paste the link
@@ -21,7 +21,7 @@ This is a landing page for delani studio.Which deals with various activities and
 |  Enter your name  |   Stephen Nderitu |     |
 | Enter your Email Address  | stevenderitu99@gmail.com |   |
 | Enter your message or comment   |  Please help me with the development of a new upcoming website     |     |
-| Press Submit|     |Pop up "Stephen Nderiu , thank you for reaching out to us,we have received your message.|
+| Press Submit|     |Pop up "Stephen Nderitu , thank you for reaching out to us,we have received your message.|
 
 ## Support and contact details
 For any verification or support please contact me through [stevenderitu99@gmail.com]
