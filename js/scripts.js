@@ -41,4 +41,10 @@ $(document).ready(function () {
     }).mouseout(function () {
         $("#hover3").hide();
     });
+
+    $("#work4").mouseover(function () {
+        $("#hover4").show();
+    }).mouseout(function () {
+        $("#hover4").hide();
+    });
 });
