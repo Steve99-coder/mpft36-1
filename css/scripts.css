@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+.intro{
+    background-image: url("../img/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 17%;
+    text-align: center;
+    color: white;
+    font-family: 'Gabriela', serif;
+}
+.intro h1{
+    padding: 2px;
+    margin: 5px;
+}
